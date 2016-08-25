@@ -17,6 +17,7 @@ public class AnimalBode extends Animal{
 
     @Override
     public String emiteSom() {
+        //xxxxxxxxxxxxxxxxxxxxxxxxxx
         return "Beeeeee"; //To change body of generated methods, choose Tools | Templates.
     }
     
